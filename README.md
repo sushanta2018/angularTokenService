@@ -1,2 +1,2 @@
-# angularTokenService
-Token Demo
+# Authentication
+Angular Token Demo
